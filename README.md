@@ -1,4 +1,5 @@
 - Dedicated to working on data visualisation, data science, machine learning, and general coding in Python; working heavily on datasets from Kaggle, Google etc. online
 - Also broadening coding experience to data science in R and database work in SQL (PostgreSQL, MySQL) 
-- Also working on Java, HTML, CSS, and Javascript
+- Also working on Java, HTML, CSS, Javascript, and also Java 11
 - Engaged in working on the Machine Learning process through Tensorflow, with an aim to pass the TensorFlow Developer Certificate from Google
+- Working as a data analyst and looking to transition into software engineering
