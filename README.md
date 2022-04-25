@@ -9,6 +9,5 @@ Stacks I'm currently learning:
 
 Research interests:
 - Software engineering
-- Data science & machine learning
 - NLP
 - Web app development
