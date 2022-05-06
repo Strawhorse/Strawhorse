@@ -1,6 +1,6 @@
-Hi there, I'm John, currently studying to enter the programming world. Learning using Udemy, Kaggle, Coursera, and anything else useful I can find.
+Self-taught programmer learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find.
 
-Currently learning: 
+Current stack: 
 - HTML 
 - CSS 
 - JS (incl. Node.js, Next.js, React)  
@@ -9,5 +9,5 @@ Currently learning:
 
 Research interests:
 - Software engineering
-- NLP
 - Web app development
+- Machine Learning
