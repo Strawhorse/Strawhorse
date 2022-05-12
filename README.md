@@ -1,11 +1,10 @@
-Self-taught programmer learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find.
+Self-taught programmer learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find. Working towards a PERN stack.
 
 Current stack: 
 - HTML 
 - CSS 
-- JS (incl. Node.js, Next.js, React)  
-- APIs 
-- SQL (PostgreSQL)
+- Node.js, Next.js, React  
+- PostgreSQL
 
 Research interests:
 - Software engineering
