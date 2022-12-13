@@ -1,4 +1,6 @@
-Self-taught programmer learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find. Working towards a PERN stack.
+Self-taught programmer currently undertaking postgrad in Applied Software Development with CCT Dublin, mainly in Java, also learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
+
+Recently gave this repository a clean sweep and am looking to upload fresh projects.
 
 Current stack: 
 - Java
@@ -18,5 +20,3 @@ Research interests:
 - Web app development
 - Website back end
 - Machine Learning
-
-Looking for that first opportunity. Currently working at Apple as a data analyst.
