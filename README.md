@@ -1,4 +1,4 @@
-Self-taught programmer currently undertaking postgrad in Applied Software Development with CCT Dublin, mainly in Java, also learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
+Programmer currently undertaking postgraduate studies in Applied Software Development with CCT Dublin, mainly in Java, also learning using ZtM, Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
 
 Recently gave this repository a clean sweep and am looking to upload fresh projects.
 
