@@ -9,8 +9,9 @@ Recently gave this repository a clean sweep and am looking to upload fresh proje
 
 Current stack: 
 - Java
-- HTML, CSS, JS 
+- HTML, CSS, JS, PHP 
 - Node.js 
+- MySQL
 - PostgreSQL
 
 Research interests:
