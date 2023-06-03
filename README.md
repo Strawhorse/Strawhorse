@@ -1,6 +1,6 @@
 Hi there, I'm John Bracken
 
-Java programmer currently finishing postgraduate studies in Applied Software Development with CCT Dublin (HDip). 
+Programmer currently finishing postgraduate studies in Applied Software Development with CCT Dublin (HDip). 
 
 Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
 
