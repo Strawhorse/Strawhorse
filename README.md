@@ -1,6 +1,6 @@
 Hi there, I'm John Bracken
 
-Programmer currently finishing postgraduate studies in Applied Software Development with CCT Dublin (HDip). 
+Programmer currently finishing HDip in Applied Software Development with CCT Dublin. 
 
 Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
 
@@ -8,12 +8,11 @@ Recently gave this repository a clean sweep and am looking to upload fresh proje
 
 Current stack: 
 - Java
-- JAvaScript
+- JavaScript/Typescript
 - HTML, CSS, 
 - PHP 
 - Node.js 
 - MySQL
-- PostgreSQL
 
 Research interests:
 - Software engineering
