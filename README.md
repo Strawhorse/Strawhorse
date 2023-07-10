@@ -1,6 +1,6 @@
-Hi there, I'm John Bracken
+Hi there, I'm John Bracken. 
 
-Programmer currently finishing HDip in Applied Software Development with CCT Dublin. 
+I just graduated with a Higher Diploma in Applied Software Development with CCT Dublin. 
 
 Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
 
