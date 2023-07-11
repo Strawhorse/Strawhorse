@@ -4,9 +4,9 @@ I just graduated with a Higher Diploma in Applied Software Development with CCT 
 
 Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
 
-Recently gave this repository a clean sweep and am looking to upload fresh projects.
+Recently gave this repository a clean sweep and am uploading fresh projects.
 
-Current stack: 
+Languages: 
 - Java
 - JavaScript/Typescript
 - HTML, CSS, 
@@ -14,7 +14,7 @@ Current stack:
 - Node.js 
 - MySQL
 
-Research interests:
+Interests:
 - Software engineering
 - Web app development
 - Website back end
