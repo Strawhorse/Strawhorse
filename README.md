@@ -7,7 +7,7 @@ Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find
 Recently gave this repository a clean sweep and am uploading fresh projects.
 
 Languages: 
-- Java
+- Java (w/ Spring/Hibernate)
 - JavaScript/Typescript
 - HTML, CSS, 
 - PHP 
