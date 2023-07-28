@@ -6,13 +6,13 @@ Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find
 
 Recently gave this repository a clean sweep and am uploading fresh projects.
 
-Languages: 
-- Java (w/ Spring/Hibernate)
+Interests: 
 - JavaScript/Typescript
 - HTML, CSS, 
 - PHP 
 - Node.js 
 - MySQL
+- Java (w/ Spring/Hibernate)
 
 Interests:
 - Software engineering
