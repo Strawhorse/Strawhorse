@@ -1,15 +1,13 @@
-Hi there, I'm John Bracken. 
-
-I just graduated with a Higher Diploma in Applied Software Development with CCT Dublin. 
+Graduate with a Higher Diploma in Applied Software Development with CCT Dublin. 
 
 Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
 
 Recently gave this repository a clean sweep and am uploading fresh projects.
 
 Interests: 
+- Back End Development
+- PHP/Laravel
 - JavaScript/Typescript
-- HTML, CSS, 
-- PHP 
 - Node.js 
 - MySQL
 - Java (w/ Spring/Hibernate)
