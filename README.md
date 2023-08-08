@@ -4,18 +4,15 @@ Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find
 
 Recently gave this repository a clean sweep and am uploading fresh projects.
 
-Interests: 
+Areas of knowledge and interest: 
 - Back End Development
 - PHP/Laravel
 - JavaScript/Typescript
 - Node.js 
 - MySQL/Postgres
 - Java (w/ Spring/Hibernate)
-
-Interests:
-- Software engineering
-- Web app development
-- Website back end
+- Docker
+- Version control incl. Github
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Strawhorse&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strawhorse&theme=tokyonight)
 
