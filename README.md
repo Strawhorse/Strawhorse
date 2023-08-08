@@ -9,7 +9,7 @@ Interests:
 - PHP/Laravel
 - JavaScript/Typescript
 - Node.js 
-- MySQL
+- MySQL/Postgres
 - Java (w/ Spring/Hibernate)
 
 Interests:
