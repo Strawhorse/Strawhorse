@@ -5,8 +5,7 @@ Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find
 Recently gave this repository a clean sweep and am uploading fresh projects.
 
 Areas of knowledge and interest: 
-- Java (w/ Spring/Hibernate)
-- Back End Development
+- Java (w/ Spring/Hibernate/jframe/JAVA-Core/JDBC/servlets)
 - PHP/Laravel
 - JavaScript/Typescript
 - Node.js 
