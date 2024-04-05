@@ -7,8 +7,6 @@ Recently gave this repository a clean sweep and am uploading fresh projects.
 Areas of knowledge and interest: 
 - Java (w/ Spring/Hibernate/jframe/JAVA-Core/JDBC/servlets)
 - PHP/Laravel
-- JavaScript/Typescript
-- Node.js 
 - MySQL/Postgres
 - Docker
 - Version control incl. Github
