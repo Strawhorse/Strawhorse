@@ -8,6 +8,7 @@ Areas of knowledge and interest:
 - Java (w/ Spring/Hibernate/jframe/JAVA-Core/JDBC/servlets)
 - PHP/Laravel
 - MySQL/Postgres
+- Javascript
 - Docker
 - Version control incl. Github
 
