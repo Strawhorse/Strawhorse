@@ -1,8 +1,6 @@
-Graduate with Higher Diploma in Applied Software Development with CCT Dublin. 
+Hi there, I'm John Bracken and I'm a developer with HDip in Applied Software Development. Main areas of interest include backend developmenet, app development, and API design.
 
-Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. Looking for developer opportunities.
-
-Recently gave this repository a clean sweep and am uploading fresh projects.
+Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. 
 
 Areas of knowledge and interest: 
 - Java (w/ Spring/Hibernate/jframe/JAVA-Core/JDBC/servlets)
