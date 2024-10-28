@@ -17,5 +17,4 @@ Postgraduate Diploma in Applied Software Development 2022-23 Results: Distinctio
 
 Up-to-date CV
 
-![CV 2024](https://github.com/user-attachments/assets/7e8aedf1-8570-4f82-99a0-fae8bbbd4b85)
-
+![CV 2024](https://github.com/user-attachments/assets/b845760c-44a4-4101-80dc-6aff36dc71ab)
