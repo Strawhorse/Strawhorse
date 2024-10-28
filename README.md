@@ -12,8 +12,10 @@ Areas of knowledge and interest:
 - Version control incl. Github
 
 Postgraduate Diploma in Applied Software Development 2022-23 Results: Distinction
+
 ![Results](https://github.com/Strawhorse/Strawhorse/assets/47267071/32840430-48b7-4858-b449-2d905a8948c8)
 
 Up-to-date CV
-[John Bracken software dev resume 2024.pdf](https://github.com/user-attachments/files/17544525/John.Bracken.software.dev.resume.2024.pdf)
+
+![CV 2024](https://github.com/user-attachments/assets/7e8aedf1-8570-4f82-99a0-fae8bbbd4b85)
 
