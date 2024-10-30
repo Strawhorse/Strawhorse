@@ -3,9 +3,9 @@ Hi there, I'm John Bracken and I'm a developer with HDip in Applied Software Dev
 Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. 
 
 Areas of knowledge and interest: 
-- Java 8/17/21 (w/ Spring Boot 3/Hibernate/Web/Security/Data)
+- Java 8/17/21 (w/ Spring Boot 3)
 - PHP/Laravel
-- MySQL/Postgres
+- MySQL/Postgres/MongoDB
 - Javascript
 - Angular
 - Docker
