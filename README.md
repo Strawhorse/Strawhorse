@@ -1,13 +1,13 @@
-Hi there, I'm John Bracken and I'm a developer with HDip in Applied Software Development and now also studying a Higher Diploma in Science in Software Development with ATU Galway. 
+Hi there, I'm John Bracken and I'm a developer with HDip in Applied Software Development from CCT Dublin and now also studying a Higher Diploma in Science in Software Development with ATU Galway. 
 
 Main areas of interest include backend developmenet, app development, and API design.
 
-Also learning using Udemy, Kaggle, Coursera, and anything else useful I can find. 
-
 Areas of knowledge and interest: 
-- Java 8/17/21 (w/ Spring Boot 3)
+- Java 17/21
+- Spring Boot 3
 - PHP/Laravel
-- MySQL/Postgres/MongoDB
+- Postgres
+- MongoDB
 - Javascript
 - Angular
 - Docker
@@ -16,8 +16,3 @@ Areas of knowledge and interest:
 Postgraduate Diploma in Applied Software Development 2022-23 Results: Distinction
 
 ![Results](https://github.com/Strawhorse/Strawhorse/assets/47267071/32840430-48b7-4858-b449-2d905a8948c8)
-
-Up-to-date CV
-
-![image](https://github.com/user-attachments/assets/f00f9be9-f094-4eec-a9cb-d5207362ea9e)
-
