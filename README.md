@@ -9,7 +9,7 @@ Areas of knowledge and interest:
 - Postgres
 - MongoDB
 - Javascript
-- Angular
+- Bash
 - Docker
 - Version control incl. Github
 
